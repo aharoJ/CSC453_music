@@ -1,2 +1,2 @@
 # CSC453_music
-Anyone make the gui 🥲
+We need to add a gui onto this code. Anyone 🥲 
